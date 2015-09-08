@@ -1,7 +1,8 @@
 <html>
 <body>
 <?php
-echo "Hello world!";
+echo "Test page";
+
 ?>
 </body>
 </html>
